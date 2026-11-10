@@ -1,2 +1,3 @@
 [install]
 linker = "isolated"
+cache = ".bun-cache"
