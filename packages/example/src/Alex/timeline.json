@@ -1,0 +1,100 @@
+[
+	{
+		"kind": "intro",
+		"title": "Một người tốt",
+		"text": "Alex, 27 tuổi. Một người tốt bụng, luôn sẵn sàng giúp đỡ người khác.",
+		"fromFrame": 0,
+		"duration": 289
+	},
+	{
+		"kind": "office",
+		"title": "“Để tôi giúp.”",
+		"text": "Đồng nghiệp nhờ sửa máy tính, anh giúp. Ai cần người hỗ trợ, Alex luôn xuất hiện.",
+		"fromFrame": 289,
+		"duration": 265
+	},
+	{
+		"kind": "friends",
+		"title": "Lúc nào cũng có mặt",
+		"text": "Bạn bè nhờ giải quyết công việc, anh đồng ý. Dù bận đến đâu, anh vẫn tìm cách dành thời gian cho họ.",
+		"fromFrame": 554,
+		"duration": 313
+	},
+	{
+		"kind": "alone",
+		"title": "Nhưng khi anh cần…",
+		"text": "Nhưng khi chính Alex cần một người ở bên cạnh, chẳng ai thực sự quan tâm. Tin nhắn đã gửi. Không một lời hồi đáp.",
+		"fromFrame": 867,
+		"duration": 347
+	},
+	{
+		"kind": "realize",
+		"title": "Được cần đến. Không được chọn.",
+		"text": "Anh nhận ra, mọi người tìm đến khi cần anh giúp đỡ. Nhưng hiếm khi lựa chọn ở bên anh, chỉ vì anh là Alex.",
+		"fromFrame": 1214,
+		"duration": 353
+	},
+	{
+		"kind": "dream",
+		"title": "Một giấc mơ bỏ quên",
+		"text": "Alex từng mơ trở thành họa sĩ minh họa. Nhưng vì mải làm hài lòng mọi người, anh đã bỏ quên những bức vẽ của chính mình.",
+		"fromFrame": 1567,
+		"duration": 341
+	},
+	{
+		"kind": "invite",
+		"title": "Một cơ hội cho chính mình",
+		"text": "Một ngày, anh nhìn thấy lời mời gửi tác phẩm tham dự triển lãm nghệ thuật. Giấc mơ cũ bỗng sáng lên một lần nữa.",
+		"fromFrame": 1908,
+		"duration": 323
+	},
+	{
+		"kind": "pressure",
+		"title": "Lại một lần nữa…",
+		"text": "Nhưng đúng lúc ấy, những lời nhờ vả lại đến. Máy tính cần sửa. Công việc cần giải quyết. Còn bức tranh của anh vẫn dang dở.",
+		"fromFrame": 2231,
+		"duration": 381
+	},
+	{
+		"kind": "no",
+		"title": "Lần đầu tiên",
+		"text": "Alex hít một hơi thật sâu. Lần đầu tiên, anh nói: Không. Hôm nay, tôi cần thời gian cho bản thân.",
+		"fromFrame": 2612,
+		"duration": 353
+	},
+	{
+		"kind": "paint",
+		"title": "Trở về với điều mình yêu",
+		"text": "Anh tắt thông báo, cầm lại cây cọ. Từng nét vẽ hiện lên. Lần này, Alex không bỏ dở điều quan trọng với mình.",
+		"fromFrame": 2965,
+		"duration": 349
+	},
+	{
+		"kind": "mara",
+		"title": "Một người thực sự ở lại",
+		"text": "Mara đến, không phải để nhờ giúp đỡ. Cô chỉ muốn ngồi bên anh, ngắm bức tranh, và lắng nghe câu chuyện của anh.",
+		"fromFrame": 3314,
+		"duration": 331
+	},
+	{
+		"kind": "gallery",
+		"title": "Được nhìn thấy",
+		"text": "Bức tranh được hoàn thành và gửi đến triển lãm. Nhưng món quà lớn nhất, là Alex đã biết dành một chỗ cho chính mình trong cuộc đời.",
+		"fromFrame": 3645,
+		"duration": 352
+	},
+	{
+		"kind": "kind",
+		"title": "Tốt bụng, không có nghĩa là hy sinh",
+		"text": "Bạn có thể là người tốt mà không cần phải luôn hy sinh. Bạn có thể yêu thương mọi người, mà vẫn có quyền nói không.",
+		"fromFrame": 3997,
+		"duration": 332
+	},
+	{
+		"kind": "end",
+		"title": "Bạn vốn đã xứng đáng.",
+		"text": "Bạn không cần phải trở nên hữu ích, mới xứng đáng được trân trọng.",
+		"fromFrame": 4329,
+		"duration": 234
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Gieo một hạt lành",
+		"from": 0,
+		"duration": 300,
+		"text": "Luật nhân quả bắt đầu từ những điều rất nhỏ. Một hạt giống được gieo xuống, cần thời gian và sự chăm sóc để nở thành hoa."
+	},
+	{
+		"name": "Giúp người không tính toán",
+		"from": 300,
+		"duration": 360,
+		"text": "Sáng ấy, Minh thấy một người phụ nữ đánh rơi túi đồ. Anh dừng lại, nhặt giúp và trao tận tay. Một việc nhỏ, nhưng khiến lòng người ấm lại."
+	},
+	{
+		"name": "Lòng tốt được tiếp nối",
+		"from": 660,
+		"duration": 360,
+		"text": "Được giúp đỡ, cô mang niềm vui ấy đi tiếp. Thấy một người đang đói, cô chia phần bánh của mình. Lòng tốt không dừng ở người nhận."
+	},
+	{
+		"name": "Một chiếc ô trong mưa",
+		"from": 1020,
+		"duration": 420,
+		"text": "Chiều xuống, mưa bất chợt. Minh đứng lặng bên đường. Người vừa được chia bánh bước đến, nghiêng ô che cho anh. Đôi khi, điều ta gieo trở về theo cách không ngờ."
+	},
+	{
+		"name": "Gặt sự bình an",
+		"from": 1440,
+		"duration": 360,
+		"text": "Nhân quả không phải lời hứa rằng mọi việc tốt đều được trả ngay. Hãy sống tử tế, không đòi đền đáp. Điều ta nuôi dưỡng hôm nay sẽ góp phần tạo nên ngày mai."
+	}
+]
